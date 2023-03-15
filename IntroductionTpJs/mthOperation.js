@@ -1,0 +1,10 @@
+var applePrice = 500;
+var orangePrice = 400;
+// var priceDifference = applePrice - orangePrice;
+// console.log(priceDifference);
+// var totalPrice = applePrice + orangePrice;
+//console.log(totalPrice);
+var singleApple = 10;
+var needApple = 10;
+var totalPrice = singleApple * needApple;
+console.log(totalPrice);

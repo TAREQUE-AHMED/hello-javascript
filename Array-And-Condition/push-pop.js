@@ -1,0 +1,10 @@
+var numbers = [10, 30, 45, 55, 67];
+numbers.push(40);
+numbers.unshift(18);
+console.log(numbers);
+var friendName = ['rahim', 'karim', 'abdul', 'salam'];
+friendName.push('borkot');
+friendName.unshift('belayet');
+friendName.pop();
+friendName.pop();
+console.log(friendName);

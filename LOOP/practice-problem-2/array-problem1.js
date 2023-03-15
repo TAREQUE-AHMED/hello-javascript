@@ -1,0 +1,10 @@
+// var fruits = ['Apple', 'Banana', 'Orange'];
+// //var fruit = fruits.indexOf('Banana');
+// //fruits.pop([1]);
+//  fruits.splice(1, 1, 'Mango');
+// console.log(fruits);
+var fruits = ['Apple', 'Banana', 'Orange'];
+fruits[1] = 'mango';
+fruits.pop([2]);
+fruits.push('Watermelon');
+console.log(fruits);
